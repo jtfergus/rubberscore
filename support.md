@@ -7,8 +7,9 @@ It helps groups track score, review hands, and wrap up with a clear recap.
 
 If you have questions, suggestions, or encounter an issue, please contact:
 
-**Email:** rubberscore@jtfergus.com  
-(Replace with your preferred support email if different.)
+**Email:** 
+
+RubberScore@jtfergus.com 
 
 ## Privacy
 
