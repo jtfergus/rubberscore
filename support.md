@@ -9,7 +9,7 @@ If you have questions, suggestions, or encounter an issue, please contact:
 
 **Email:** 
 
-RubberScore@jtfergus.com 
+RubberScore@jfergus.com 
 
 ## Privacy
 
