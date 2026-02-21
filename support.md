@@ -1,3 +1,5 @@
+Canonical: https://rubberscore.jfergus.com/support
+
 # RubberScore Support
 
 RubberScore is a companion app for social brige sessions.
