@@ -11,4 +11,4 @@ RubberScore does not collect, store, or transmit personal data.
 - Data is only shared if you choose a destination.
 
 If you have questions about this policy, contact:
-mailto:RubberScore@jfergus.com
+[support@jfergus.com](mailto:support@jfergus.com)
