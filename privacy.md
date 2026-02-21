@@ -1,3 +1,5 @@
+Canonical: https://rubberscore.jfergus.com/privacy
+
 # Privacy Policy
 
 RubberScore does not collect, store, or transmit personal data.
