@@ -1,3 +1,5 @@
+Canonical: https://rubberscore.jfergus.com/
+
 # RubberScore
 
 RubberScore is a friendly scorekeeper for rubber bridge or one continuous session of play. 
@@ -14,4 +16,5 @@ It’s built for mixed‑skill groups who want to stay in the flow, keep the tab
 - Clear session recap at the end
 - All data stays on your device unless you choose to export
 
-### [Support](https://jtfergus.github.io/rubberscore/support)
+### [Support](https://rubberscore.jfergus.com/support)
+### [Privacy Policy](https://rubberscore.jfergus.com/privacy)
