@@ -2,13 +2,13 @@
 
 RubberScore does not collect, store, or transmit personal data.
 
-All session data, scores, and player names are stored locally on your device.
+- All session data, scores, and player names are stored locally on your device.
 
-RubberScore does not use analytics, advertising, tracking, or third-party SDKs.
+- RubberScore does not use analytics, advertising, tracking, or third-party SDKs.
 
-Export and sharing features are user-initiated and use the iOS system share sheet. 
+- Export and sharing features are user-initiated and use the iOS system share sheet. 
 
-Data is only shared if you choose a destination.
+- Data is only shared if you choose a destination.
 
 If you have questions about this policy, contact:
-RubberScore@jfergus.com
+mailto:RubberScore@jfergus.com
