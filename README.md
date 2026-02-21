@@ -1,5 +1,3 @@
-Canonical: https://rubberscore.jfergus.com/
-
 # RubberScore
 
 RubberScore is a friendly scorekeeper for rubber bridge or one continuous session of play. 
