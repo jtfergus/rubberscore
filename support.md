@@ -38,7 +38,7 @@ iPad screen is streamlined and navigation is easier.
 If you have questions, suggestions, or encounter an issue, please contact:
 
 **Email:**  
-mailto:RubberScore@jfergus.com
+[support@jfergus.com](mailto:support@jfergus.com)
 
 ## Privacy
 
