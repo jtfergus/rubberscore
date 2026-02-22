@@ -1,18 +1,28 @@
 # RubberScore
 
-RubberScore is a friendly scorekeeper for rubber bridge or one continuous session of play. 
+### A simple scorekeeper for social rubber bridge
 
-It’s built for mixed‑skill groups who want to stay in the flow, keep the table social, and wrap up with a clear recap.
+RubberScore helps mixed-skill groups stay in the flow, keep the table social, and finish with a clear recap.
 
-### Two ways to play:
+## Two Ways to Play
+
 - **Rubber** — traditional rubber bridge scoring  
-- **One Session** — casual, continuous play with no rubber prompts
+- **One Session** — continuous play without rubber prompts  
 
-### Why it’s different
-- Fast hand entry and easy corrections
-- Quick access to names, partners, and hand history
-- Clear session recap at the end
-- All data stays on your device unless you choose to export
+## Why RubberScore
 
-### [Support](https://rubberscore.jfergus.com/support)
-### [Privacy Policy](https://rubberscore.jfergus.com/privacy)
+- Fast hand entry and easy corrections  
+- Quick access to names, partners, and hand history  
+- Clear session recap at the end  
+- All data stays on your device unless you export  
+
+## Get Help
+
+For support or feedback:
+
+**Email:** [support@jfergus.com](mailto:support@jfergus.com)
+
+## Links
+
+- [Support](https://rubberscore.jfergus.com/support)
+- [Privacy Policy](https://rubberscore.jfergus.com/privacy)
