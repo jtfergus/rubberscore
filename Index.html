@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>RubberScore</title>
+  <meta name="description" content="A simple scorekeeper for social rubber bridge." />
+  <link rel="canonical" href="https://rubberscore.jfergus.com/" />
+  <style>
+    :root { color-scheme: light dark; }
+    body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.5; }
+    .wrap { max-width: 860px; margin: 0 auto; padding: 36px 20px; }
+    .card { border: 1px solid rgba(127,127,127,.25); border-radius: 12px; padding: 20px; }
+    h1 { margin: 0 0 8px; font-size: 34px; letter-spacing: -0.02em; }
+    .subtitle { margin: 0 0 18px; font-size: 18px; opacity: .85; }
+    h2 { margin: 26px 0 10px; font-size: 20px; }
+    ul { margin: 8px 0 0 18px; }
+    .links { display: flex; gap: 14px; flex-wrap: wrap; margin-top: 18px; }
+    a { text-decoration: none; }
+    .btn {
+      display: inline-block; padding: 10px 12px; border-radius: 10px;
+      border: 1px solid rgba(127,127,127,.35);
+    }
+    .fine { margin-top: 18px; font-size: 14px; opacity: .75; }
+    .hr { height: 1px; background: rgba(127,127,127,.25); margin: 22px 0; }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <section class="card">
+      <h1>RubberScore</h1>
+      <p class="subtitle">A simple scorekeeper for social rubber bridge.</p>
+
+      <p>
+        RubberScore helps mixed-skill groups stay in the flow, keep the table social, and finish with a clear recap.
+      </p>
+
+      <div class="hr"></div>
+
+      <h2>Two ways to play</h2>
+      <ul>
+        <li><strong>Rubber</strong> — traditional rubber bridge scoring</li>
+        <li><strong>One Session</strong> — continuous play with no rubber prompts</li>
+      </ul>
+
+      <h2>Why RubberScore</h2>
+      <ul>
+        <li>Fast hand entry and easy corrections</li>
+        <li>Quick access to names, partners, and hand history</li>
+        <li>Clear session recap at the end</li>
+        <li>All data stays on your device unless you choose to export</li>
+      </ul>
+
+      <h2>Support</h2>
+      <p>
+        Email: <a href="mailto:support@jfergus.com">support@jfergus.com</a>
+      </p>
+
+      <div class="links">
+        <a class="btn" href="/support/">Support page</a>
+        <a class="btn" href="/privacy/">Privacy policy</a>
+        <!-- Optional: add your App Store link when you have it -->
+        <!-- <a class="btn" href="https://apps.apple.com/app/idYOURID">View on the App Store</a> -->
+      </div>
+
+      <p class="fine">
+        © <span id="y"></span> RubberScore. Made for friendly game nights.
+      </p>
+    </section>
+  </main>
+
+  <script>
+    document.getElementById("y").textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
